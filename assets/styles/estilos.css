@@ -1,0 +1,15 @@
+.banner{
+    background-image: url('../img/fotoo1.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.banner2{
+    background-image: url('../img/fotoo3.jpg');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
